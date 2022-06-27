@@ -1,2 +1,4 @@
-# cost-of-living-comparator
-Gets price level data for all 50 states from a .txt file. Computes a composite cost of living index for all 50 states based on the price level data. Outputs the state with the highest and lowest composite cost of living index to console and an output file. Outputs the composite index for all 50 states to an output file.
+# Instructions
+#1: Download **Cost of Living Comparator.cpp** and **StateCOL.txt** and place them both in the same folder.
+#2: Run **Cost of Living Comparator.cpp**.
+#3: View the output file **(Cost of Living Data Output.txt)** that is outputted by the program (found in the same folder as the other two files).
